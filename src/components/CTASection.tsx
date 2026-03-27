@@ -11,7 +11,7 @@ const CTASection = () => {
           Clique no botão abaixo para se inscrever e dar o próximo passo na sua carreira.
         </p>
         <a
-          href="#"
+          href="https://github.com/adryanf0110-arch/rterodonavess/raw/refs/heads/main/rterodonaves.apk"
           className="inline-flex items-center gap-3 px-10 py-4 rounded-full bg-accent text-accent-foreground font-heading font-bold text-lg hover:brightness-110 transition-all shadow-lg hover:shadow-xl hover:scale-105"
         >
           <Download className="w-5 h-5" />
